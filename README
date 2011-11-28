@@ -1,0 +1,12 @@
+DESCRIPTION: This is just a simple tool for changing your boot logo screen.
+
+It does not include boot logo packages.
+
+bootanimation.zip package must be placed at SDCARD/bootanims/myAnimation/bootanimation.zip
+
+preview.png screenshot must be size 80x80 and placed at SDCARD/bootanims/myAnimation/preview.png
+
+Bootsound is not tested yet:
+
+Bootsound.mp3 must be placed at
+SDCARD/bootanims/myAnimation/Bootsound.mp3
